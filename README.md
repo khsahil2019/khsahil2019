@@ -30,7 +30,10 @@ Welcome to my GitHub profile! I’m a Flutter Developer with over 2.5 years of e
 ### 🏆 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=khsahil2019&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="Sahil's GitHub Stats">
+  
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khsahil2019&theme=radical&hide_border=true" width="48%" alt="Sahil's GitHub Streak">
 </div>
 
@@ -39,7 +42,10 @@ Welcome to my GitHub profile! I’m a Flutter Developer with over 2.5 years of e
 ### 📊 Language & Tools Stats
 
 <div align="center">
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khsahil2019&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages">
+  
+  <!-- Most Used Languages Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khsahil2019&theme=radical&hide_border=true" width="48%" alt="Repos per Language">
 </div>
 
@@ -47,7 +53,7 @@ Welcome to my GitHub profile! I’m a Flutter Developer with over 2.5 years of e
 
 ### 🌟 Activity Graph
 
-[![Sahil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khsahil2019&theme=react-dark&hide_border=true&bg_color=000000&color=79fe96&line=00fffd&point=79fe96)](https://github.com/khsahil2019)
+[![Sahil's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=khsahil2019&theme=react-dark&hide_border=true&bg_color=000000&color=79fe96&line=00fffd&point=79fe96)](https://github.com/khsahil2019)
 
 ---
 
