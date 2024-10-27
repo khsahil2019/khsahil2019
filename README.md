@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I’m a Flutter Developer with over 2.5 years of e
 
 - 📧 Email: sahilkh3014@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/mastersahilkhan)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 🌐 [Portfolio](https://khsahil2019.github.io/)
 
 ---
 
